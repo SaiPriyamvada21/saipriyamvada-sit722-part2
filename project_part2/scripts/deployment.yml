@@ -1,5 +1,4 @@
 # Write Kubernetes Deployment Script
-# Write Kubernetes Deployment Script
 apiVersion: apps/v1
 kind: Deployment
 metadata:
